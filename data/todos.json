@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "The Joy of Coding",
+    "description": "An exploration into the beauty of writing code and solving problems."
+  },
+  {
+    "id": 2,
+    "title": "Web Development 101",
+    "description": "A beginner's guide to building websites with HTML, CSS, and JavaScript."
+  },
+  {
+    "id": 3,
+    "title": "Node.js for Beginners",
+    "description": "Introduction to Node.js and how it helps in building scalable server-side applications."
+  },
+  {
+    "id": 4,
+    "title": "Express.js Fundamentals",
+    "description": "Learn how to create robust web applications using Express.js in Node.js."
+  },
+  {
+    "id": 5,
+    "title": "React",
+    "description": "learn react"
+  }
+]
